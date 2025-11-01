@@ -1,1 +1,1 @@
-# Largest-Rectangle
+# Largest-Rectangle This code computes the largest rectangular area possible in a histogram by using a stack to track indices of increasing bar heights and calculating areas when a smaller bar is encountered. The `largestRectangle` function iterates through the histogram, updating the maximum area by considering each bar as the potential smallest bar of a rectangle.
